@@ -1,0 +1,37 @@
+.ChessInfo{
+    display: flex;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    padding: 4rem;
+    gap: 2rem;
+}
+
+.IMAGE, .CONTENT{
+    height: 100%;
+    width: 50%;
+}   
+
+.CONTENT{
+    background-color: rgba(3, 3, 3, 0.144);
+    height: 50%;
+    width: 80%;
+    padding: 2rem;
+}
+
+#paraQueen{
+    color: azure;
+    margin-top: 2rem;
+}
+
+#headingQueen{
+    color: blueviolet;
+}
+
+.CONTENTBTN{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+}

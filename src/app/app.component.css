@@ -1,0 +1,43 @@
+.btn-home {
+    font-size: 1.25rem;
+    margin-right: 10px;
+  }
+
+  .btn-visualize {
+    font-size: 1.25rem;
+  }
+  
+  .btn-home:hover, .btn-visualize:hover {
+    transition: all 0.4s ease;
+  }
+
+  .btn-home:hover{
+    background-color: rgba(255, 255, 0, 0.92);
+    
+  }
+
+  .btn-visualize:hover {
+    background-color: red; 
+  }
+
+  body {
+    background-color: #f8f9fa;
+    color: #343a40;
+  }
+
+  .custom-h1 {
+    font-size: 1.5rem; 
+    line-height: 50px; 
+    margin-left: 10px;
+    margin-bottom: 0;
+  }
+
+  .PANEL{
+    background-color: #272522;
+    height: 100vh;
+    width: 100vw;
+  }
+
+  .PANEL2{
+    margin: 1rem;
+  }
